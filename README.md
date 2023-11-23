@@ -1,8 +1,3 @@
-- 🔭 I’m currently Intern on Shiash Info Solutions Private Limited, Chennai, Tamil Nadu, India.
-- 🌱 I’m currently learning Python Full stack Development.
-- 💬 Ask me about ...
-- 📫 How to reach me: https://sk-sanju.github.io/my-portfolio/
-- 😄 Pronouns:  s uh n - j uh y
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -18,9 +13,9 @@
  
  🔭 I’m currently Intern on Shiash Info Solutions Private Limited, Chennai, Tamil Nadu, India.
  
- 🌱 I’m currently learning **Python FUll Stack Development**
+ 🌱 I’m currently learning **Python Full Stack Development**
 
-💬 Ask me about **Python, DJango, HTML5, CSS3  [here]([https://github.com/salesp07/salesp07/issues](https://sk-sanju.github.io/my-portfolio/))**
+💬 Ask me about **Python, DJango, HTML5, CSS3  [here]([https://github.com/sk-sanju/sk-sanju/issues])**
 
 ⚡ Fun fact **PUBG, GTA, EFOOTBALL,Clask Of Clans**
 
@@ -33,7 +28,7 @@
   <a href="https://linkedin.com/in/sanjay-sk953925" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://sk-sanju.github.io" target="_blank">
+  <a href="https://sk-sanju.github.io/my-portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
