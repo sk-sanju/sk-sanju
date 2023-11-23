@@ -1,6 +1,4 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjay+S;" />
 </h1>
@@ -17,7 +15,7 @@
 
 💬 Ask me about **Python, DJango, HTML5, CSS3  [here]([https://github.com/sk-sanju/sk-sanju/issues])**
 
-⚡ Fun fact **PUBG, GTA, EFOOTBALL,Clask Of Clans**
+⚡ Fun fact **Cricket, PUBG, GTA, EFOOTBALL**
 
  </div>
  
