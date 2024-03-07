@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently Intern on Shiash Info Solutions Private Limited, Chennai, Tamil Nadu, India.
+ 🔭 I’m currently a Freelancer In India
  
  🌱 I’m currently learning **Python Full Stack Development**
 
