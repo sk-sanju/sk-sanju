@@ -67,5 +67,6 @@
 <h2 align="left">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-sanju&theme=radical" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-sanju&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
+
