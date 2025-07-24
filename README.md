@@ -1,26 +1,25 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+Coders+👋;+I'm+Sanjay+S!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+Coders+👋;+I'm+Sanjay+S!" />
 </h1>
+
+<table>
+<tr>
+<td>
 
 <h3 align="left">📊 Passionate Data Analyst from India</h3>
 
-![Analyst](./Investment.png)
+🔍 I specialize in **Data Cleaning, Data Visualization, ETL, and Business Intelligence**  
+📈 Proficient in tools like **Power BI, Excel, SQL, Python**, and **Data Modeling**  
+🛠️ Currently upskilling in **Advanced Python & Full Stack Development**  
+💬 Ask me about **Data Analysis, Dashboards, SQL Queries, Python for Data, and Reporting Automation**  
+📬 Let’s connect! Feel free to reach out through the links below  
 
-<br/>
-
-<div align="left">
-
-🔍 I specialize in **Data Cleaning, Data Visualization, ETL, and Business Intelligence**
-
-📈 Proficient in tools like **Power BI, Excel, SQL, Python**, and **Data Modeling**
-
-🛠️ Currently upskilling in **Advanced Python & Full Stack Development**
-
-💬 Ask me about **Data Analysis, Dashboards, SQL Queries, Python for Data, and Reporting Automation**
-
-📬 Let’s connect! Feel free to reach out through the links below
-
-</div>
+</td>
+<td>
+  <img src="./Investment.png" width="250" alt="Analyst"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
