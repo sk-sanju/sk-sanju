@@ -4,8 +4,7 @@
 
 <h3 align="left">📊 Passionate Data Analyst from India</h3>
 
-<br/>
-![Analyst](Investment.png)
+![Analyst](./Investment.png)
 
 <br/>
 
