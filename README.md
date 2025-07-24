@@ -5,6 +5,9 @@
 <h3 align="left">📊 Passionate Data Analyst from India</h3>
 
 <br/>
+[![Demo Video](link-to-thumbnail-image)]()
+
+<br/>
 
 <div align="left">
 
