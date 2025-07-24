@@ -5,7 +5,7 @@
 <h3 align="left">📊 Passionate Data Analyst from India</h3>
 
 <br/>
-[![Demo Video](link-to-thumbnail-image)]()
+[▶️ Watch Demo Video](https://github.com/sk-sanju/sk-sanju/blob/main/Data.mp4)
 
 <br/>
 
