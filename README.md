@@ -1,3 +1,4 @@
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+Coders+👋;+I'm+Sanjay+S!" />
 </h1>
@@ -71,4 +72,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-sanju&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
-
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
