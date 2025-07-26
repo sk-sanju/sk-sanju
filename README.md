@@ -73,6 +73,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-sanju&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
 <div align="center">
-  <img src="https://github.com/sk-sanju/sk-sanju/blob/main/gradient.jpg" alt="Gradient Image"/>
+  <img src="https://github.com/sk-sanju/sk-sanju/blob/main/gradient.png" alt="Gradient Image"/>
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 </div>
