@@ -50,7 +50,7 @@
 
 <h2 align="left">🏆 GitHub Profile Trophy</h2>
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=sk-sanju&theme=dark&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sk-sanju" />
 </p>
 
 ---
