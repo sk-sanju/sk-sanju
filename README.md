@@ -50,7 +50,7 @@
 
 <h2 align="left">🏆 GitHub Profile Trophy</h2>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sk-sanju" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sk-sanju&theme=midnight-purple&hide_border=false" />
 </p>
 
 ---
@@ -60,9 +60,11 @@
 <br/>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=sk-sanju&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-sanju&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=sk-sanju&theme=dark&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sk-sanju&theme=midnight-purple&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-sanju&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=false" alt="Top Languages"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=sk-sanju&show_icons=true&theme=midnight-purple&hide_border=false" 
+  alt="GitHub Stats"/>
 </p>
 
 ---
