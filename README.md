@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+Coders+👋;+I'm+Sk+Sanju!" />
 </h1>
 
+![GitHub Snake Dark](https://github.com/sk-sanju/sk-sanju/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/sk-sanju/sk-sanju/blob/output/github-snake.svg#gh-light-mode-only)
+  
 <table>
 <tr>
 <td>
