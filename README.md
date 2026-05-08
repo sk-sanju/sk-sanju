@@ -12,6 +12,7 @@
 
 <h3 align="left">📊 Passionate Data Analyst from India</h3>
 
+💼 Founder of **Xenotrix Technologies**
 🔍 I specialize in **Data Cleaning, Data Visualization, ETL, and Business Intelligence**  
 📈 Proficient in tools like **Power BI, Excel, SQL, Python**, and **Data Modeling**  
 🛠️ Currently upskilling in **Advanced Python & Full Stack Development**  
