@@ -10,7 +10,7 @@
 <tr>
 <td>
 
-<h3 align="left">💼 Founder of **Xenotrix Technologies**</h3>
+<h3 align="left">💼 Founder of Xenotrix Technologies</h3>
 
 📊 Passionate Data Analyst from India                                            
 🔍 I specialize in **Data Cleaning, Data Visualization, ETL, and Business Intelligence**  
