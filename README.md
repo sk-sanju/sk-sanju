@@ -10,9 +10,9 @@
 <tr>
 <td>
 
-<h3 align="left">📊 Passionate Data Analyst from India</h3>
+<h3 align="left">💼 Founder of **Xenotrix Technologies**</h3>
 
-💼 Founder of **Xenotrix Technologies**                                             
+📊 Passionate Data Analyst from India                                            
 🔍 I specialize in **Data Cleaning, Data Visualization, ETL, and Business Intelligence**  
 📈 Proficient in tools like **Power BI, Excel, SQL, Python**, and **Data Modeling**  
 🛠️ Currently upskilling in **Advanced Python & Full Stack Development**  
